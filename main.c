@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main()
+int main() //алгоритм расчета
 {
     double x1, y1;  //Координаты первой точки
     double x2, y2;  //Координаты второй точки
